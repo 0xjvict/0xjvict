@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![badge](<img src="https://tryhackme-badges.s3.amazonaws.com/joao573.png" alt="TryHackMe">)
-<script src="https://tryhackme.com/badge/92490"></script>
+![badge](https://tryhackme-badges.s3.amazonaws.com/joao573.png" alt="TryHackMe")
 
 [![joaovict573's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corshinecorshine&show_icons=true&theme=dracula)](https://github.com/joaovict573)
 

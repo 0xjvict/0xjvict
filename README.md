@@ -4,5 +4,5 @@
 
 
 <p align="center">
-<a href="mailto:jvictor.express2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:jvict573@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+<a href="https://joaovict573.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>

@@ -1,6 +1,6 @@
 ![badge](https://tryhackme-badges.s3.amazonaws.com/joao573.png)
 
-[![joaovict573's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corshinecorshine&show_icons=true&theme=dracula)](https://github.com/joaovict573)
+[![joaovict573's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovict573&show_icons=true&theme=dracula)](https://github.com/joaovict573)
 
 
 <p align="center">

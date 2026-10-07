@@ -3,7 +3,7 @@
 Backend software engineer focused on distributed systems and software architecture.
 
 Since 2022 I've been building integrations between systems and marketplaces like Mercado Livre, Amazon and AliExpress, from zero to production.
-Day to day that means event-driven pipelines with RabbitMQ, idempotent webhooks, inventory and price sync across channels, and reconciliation that catches what the events missed.
+Day to day that means event-driven pipelines, idempotent webhooks, inventory and price sync across channels, and reconciliation that catches what the events missed.
 Mostly PHP/Laravel and Java/Spring Boot.
 
 ### Writing
